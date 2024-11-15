@@ -15,12 +15,15 @@ Base de dados: <https://www.kaggle.com/datasets/usdot/flight-delays?ref=hackerno
 7. Geração e análise de gráficos e relatórios no Power BI.
 
 ## 💡 Insight interessante 
-
-A companhia aérea Hawaiian Airlines Inc. fez 112 voos (gráfico 1) e não houve correlação entre a distância e os minutos atrasados na chegada (gráfico 2). Dentre os voos feitos, 2 estavam entre 4001-5000 milhas de distância (gráfico 4) e os mesmos tiveram a média mais alta de atraso (gráfico 3). Inferimos que, nesse caso, os voos com maior distância foram os que mais atrasaram e que os de menor distância, atrasaram bem pouco.
-
-
-⚠️: Para saber mais detalhes do projeto e ver mais alguns insights obtidos, acesse o arquivo "PASSOS".
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6c413a1d-1912-4ad0-b77e-b88f9c9f6f18" width="550">
+  <p>
+    A companhia aérea Hawaiian Airlines Inc. (HA), fez 112 voos (gráfico cartão) e não houve correlação entre a distância e os minutos atrasados na chegada (gráfico de dispersão). Dentre os voos feitos, 2 estavam entre 4001-5000 milhas de distância (gráfico de contagem de voos por distância) e os mesmos tiveram a média mais alta de atraso (gráfico de média de atrasos em minutos). Inferimos que, nesse caso, os voos com maior distância foram os que mais atrasaram e que os de menor distância, atrasaram bem pouco.
+  </p>
+</div>
 
 ## 💻 Tecnologias utilizadas
 ``VS Code`` | ``Python`` | ``Mysql Workbench`` | ``SQL Server`` | ``Power BI ``
+
+⚠️ Para saber mais detalhes do projeto e ver mais alguns insights obtidos, acesse o arquivo "PASSOS".
 
